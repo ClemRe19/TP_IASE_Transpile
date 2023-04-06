@@ -1,0 +1,16 @@
+module or_gate (e1, e2, s);
+    input e1;
+    input e2;
+    output s;
+
+
+    assign s = e1 | e2;
+
+endmodule
+
+
+//module reg_lin(X, s):
+
+
+
+//end module
